@@ -34,7 +34,7 @@ I am Prathima. I live in Brussels. Recently I started a course in **Becode** abo
     
     * Loyalty
     * Sincerity
-    * Value others (*I couldn't think of one to rhyme the other 2 ;) *)
+    * Value others ( I couldn't think of one to rhyme the other 2 ;) )
 
 * **Favorite *GIF***
 
