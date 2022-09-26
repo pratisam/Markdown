@@ -1,4 +1,4 @@
-####  TRIAL PAGE - Prathima
+####  My First MD PAGE - Prathima
 ### Introduction
 I am Prathima. I live in Brussels. Recently I started a course in **Becode** about *web developement*. This is the first page I am creating using **Markup Languange**.
 >>I have been asked to fill the following I am pretty sure half of it (all of it) is a lie **;)**
@@ -24,7 +24,7 @@ I am Prathima. I live in Brussels. Recently I started a course in **Becode** abo
 
 *  ***Fears* you might have**
 
-    * Yes I have but I dont want to say it.
+    * Yes I have.
     
 *  **Things you look forward to**.
 
@@ -34,7 +34,7 @@ I am Prathima. I live in Brussels. Recently I started a course in **Becode** abo
     
     * Loyalty
     * Sincerity
-    * Value others
+    * Value others (*I couldn't think of one to rhyme the other 2 ;) *)
 
 * **Favorite *GIF***
 
