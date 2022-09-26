@@ -11,13 +11,12 @@ I am Prathima. I live in Brussels. Recently I started a course in **Becode** abo
     
 
 * **Three things you *Like* the most in this universe**
+   
+    * Coffee
+    * Home
+    * Vacation
     
-    ![coffee](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4yl2cPWz3nqaXPdocLX7GqGHEp6zbu61M_w&usqp=CAU)
-    
-    ![home]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4yl2cPWz3nqaXPdocLX7GqGHEp6zbu61M_w&usqp=CAU](https://img.freepik.com/free-vector/person-relaxing-home_23-2148413481.jpg?w=360))
-    
-    ![vacation](https://media1.thehungryjpeg.com/thumbs2/ori_3897712_f86x8pif719qinkfl60f21185g99z10x5p2lg80d_vacation-clipart-set.png)
-    
+  
 * ***Objectives* you want to achieve as a developer during Becode**
     
     * Learn new **Tools and Language**
